@@ -6,7 +6,7 @@
   <img src="project_outputs/images/ƒƒTUshield_2c.png" alt="Image2" width="15%">
 </p>
 
-This is the project repository for Assessing NASA’s Open Science Outlook for Environmental Justice and Resilience of the Louisiana Gulf Coast (OSO-LoGiC)
+This is the project repository for Assessing NASA’s Open Science Outlook for Environmental Justice and Resilience of the Louisiana Gulf Coast (OSO-LoGiC). We have also created a sub-repos for an associated project AGEJL-4-Equity.
 
 The OSO-LoGiC project aimed “a) to enhance research capacity and competitiveness” by applying NASA Earth Science Data and Open Science approaches to Environmental Justice research along the Louisiana Gulf Coast. We focused on networking activities to ensure the capacity would “b) be scalable to a team approach for a larger future endeavor.” Project activities specifically focused on capacities to be responsive to NASA Earth Science Division priorities and program elements. Engagement with NASA program officers leading up to and during OSO-LoGiC contributed to the strategic alignment with new initiatives in Open Source Science and Environmental Justice. 
 
